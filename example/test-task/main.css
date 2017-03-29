@@ -30,6 +30,7 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
 }
 #content{
     margin-top:20px;
+    width: 960px;
 }
 .logo-img, .div-two, .div-three{
     height: 100px;
@@ -51,7 +52,7 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
 }
 #left{
     float: left;
-    width: 170px;
+    width: 155px;
     height: 700px;
     margin: 20px -16px 0 15px;
     clear: both;
@@ -63,8 +64,8 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
     color: white;
 }
 .aside-top p{
-    padding-top: 25px;
-    padding-left: 15px;
+    padding-top: 18px;
+    padding-left: 9px;
 }
 .aside-bottom{
     margin-top:400px;
@@ -75,9 +76,8 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
 }
 #center{
     float: right;
-    width: 808px;
-    /* height: 800px; */
-    margin:20px 25px 35px 0;
+    width: 777px;
+    margin: 20px 7px 35px 0;
 }
 .top-article,
 .center-article,
@@ -86,14 +86,21 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
 {
     clear: both;
 }
+.center-article{
+    width: 810px;
+    margin-left: 5px;
+}
 .top-article {
     padding-left: 15px;
+}
+.bottom-article{
+    width: 810px;
 }
 .block-text{
     background-color: #DCDCDC;
     color: #757575;
     height: 200px;
-    width: 780px;
+    width: 795px;
     font-size: 14px;
     content: inherit;
 }
@@ -112,16 +119,15 @@ body{  font-family: Arial, Helvetica, sans-serif;  }
 .block{
     float: left;
     height: 160px;
-    width: 136px;
+    width: 137px;
     margin: 25px 10px 0 15px;
     background-color: #DCDCDC;
-    vertical-align: top;
 }
 .block-advert{
     float: left;
     height: 205px;
     width: 382px;
-    margin: 25px 5px 0 15px;
+    margin: 25px 5px 0 18px;
     background-color: #DCDCDC;
 }
 .block-advert p{
