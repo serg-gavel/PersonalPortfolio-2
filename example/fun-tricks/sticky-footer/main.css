@@ -36,4 +36,13 @@ h2,
     width:980px;
     margin: 0 auto;
 }
-
+button{
+    height:40px;
+    width: 200px;
+    background-color: rgba(104, 255, 95, 0.6);
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    background-color: rgba(104, 255, 95, 0.85);
+}
