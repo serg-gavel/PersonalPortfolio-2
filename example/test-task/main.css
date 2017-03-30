@@ -203,7 +203,7 @@ html, body {
     margin-left: -10px;
 }
 
-/*Багфиксы на сколл разрешения*/
+/*Багфиксы на скролл разрешения*/
 #wrapper {
     min-height: 100%;
     margin-bottom: 300px;
