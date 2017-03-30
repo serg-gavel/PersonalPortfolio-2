@@ -167,18 +167,22 @@ html, body {
 }
 .footer-block{
     width: 290px;
-    min-height: 230px;
+    min-height: 0;
     background-color: #777;
     float: left;
-    margin: 30px 40px 0 -12px;
+    margin: 30px 40px 0 -14px;
 }
 .footer-block-right{
     width: 325px;
-    height: 100px;
+    height: 91px;
     background-color: #777;
     float: left;
     margin-left: -10px;
     margin-top: 30px;
+}
+.footer-block-wrap{
+    width: 325px;
+    float:right;
 }
 .footer-list li{
     padding-top: 10px;
