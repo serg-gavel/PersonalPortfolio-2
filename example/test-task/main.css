@@ -203,11 +203,9 @@ html, body {
     margin-left: -10px;
 }
 
-
+/*Багфиксы на сколл разрешения*/
 #wrapper {
-
     min-height: 100%;
-    /* отрицательный margin равен высоте footer'a */
     margin-bottom: 300px;
 }
 #wrapper:after {
@@ -215,10 +213,14 @@ html, body {
     display: block;
 }
 #wrapper:after {
-    /* смещение должено быть той же высоты что и footer */
     height: 20px;
 }
 #footer {
-    /* смещение должено быть той же высоты что и footer */
     height: 300px;
+}
+button{
+    width: auto;
+    color:white;
+    height:20px;
+    background-color: rgba(255, 83, 88, 0.82);
 }
