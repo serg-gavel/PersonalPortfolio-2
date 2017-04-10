@@ -329,11 +329,6 @@ and (max-width: 1225px){
         bottom: 75px;
         right: 173px;
     }
-    .inner-image:hover {
-        width: 271px;
-        height: 236px;
-        margin-right: 24px;
-    }
     .inner-image-right {
         margin-top: -62px;
     }
