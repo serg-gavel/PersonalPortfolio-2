@@ -96,6 +96,9 @@ and (max-width : 700px) {
         padding-left: 64px;
         margin-top: -5px;
     }
+    .copyrights p, .contacts p, .contacts a{
+        font-size: 80%;
+    }
     .contacts ul {
         margin-left: -51px;
         margin-top: -29px;
@@ -107,6 +110,7 @@ and (max-width : 700px) {
     }
     #footer {
         max-width: 340px;
+        height: 105px;
     }
     }
 @media screen and (max-device-width: 640px){
