@@ -61,20 +61,17 @@ and (max-width : 700px) {
         height: 246px;
     }
     .main-nav ul > li {
-        margin-left: 5px;
-    }
-    .main-nav ul > li {
-        margin-left: 5px;
+        margin-left: 6px;
     }
     .main-nav ul > li > a {
         font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
+        font-size: 12px;
     }
     .section-image {
         margin-top: 26px;
     }
     .section-content h1 {
-        font-size: 25.94px;
+        font-size: 23.94px;
     }
     .hero-btn {
         margin-top: 39px;
@@ -100,8 +97,9 @@ and (max-width : 700px) {
         margin-top: -5px;
     }
     .contacts ul {
-        margin-left: -21px;
+        margin-left: -51px;
         margin-top: -29px;
+        padding-left: 0;
     }
     .contacts ul > li {
         padding-right: 5.5px;
@@ -116,20 +114,17 @@ and (max-width : 700px) {
         height: 246px;
     }
     .main-nav ul > li {
-        margin-left: 5px;
-    }
-    .main-nav ul > li {
-        margin-left: 5px;
+        margin-left: 6px;
     }
     .main-nav ul > li > a {
         font-family: 'Open Sans', sans-serif;
-        font-size: 15px;
+        font-size: 12px;
     }
     .section-image {
         margin-top: 26px;
     }
     .section-content h1 {
-        font-size: 25.94px;
+        font-size: 23.94px;
     }
     .hero-btn {
         margin-top: 39px;
@@ -155,8 +150,9 @@ and (max-width : 700px) {
         margin-top: -5px;
     }
     .contacts ul {
-        margin-left: -21px;
+        margin-left: -51px;
         margin-top: -29px;
+        padding-left: 0;
     }
     .contacts ul > li {
         padding-right: 5.5px;
