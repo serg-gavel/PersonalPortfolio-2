@@ -166,7 +166,7 @@ and (max-width : 700px) {
         padding-left: 5.5px;
     }
     #footer {
-        max-width: 340px;
+        max-width: 440px;
         height: 105px;
     }
 }
