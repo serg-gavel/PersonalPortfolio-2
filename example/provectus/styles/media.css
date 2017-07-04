@@ -163,5 +163,6 @@ and (max-width : 700px) {
     }
     #footer {
         max-width: 340px;
+        height: 83px;
     }
 }
