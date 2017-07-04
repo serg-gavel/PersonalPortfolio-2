@@ -39,7 +39,6 @@ and (max-width : 1000px) {
         padding: 0;
     }
 }
-
 @media only screen
 and (max-width : 700px) {
     .instagram-hash {
@@ -57,3 +56,58 @@ and (max-width : 700px) {
         margin-top: 5px;
     }
 }
+@media only screen and (max-width: 500px) {
+    #header, .header-mask {
+        height: 246px;
+    }
+    .main-nav ul > li {
+        margin-left: 5px;
+    }
+    .main-nav ul > li {
+        margin-left: 5px;
+    }
+    .main-nav ul > li > a {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+    }
+    .section-image {
+        margin-top: 26px;
+    }
+    .section-content h1 {
+        font-size: 25.94px;
+    }
+    .hero-btn {
+        margin-top: 39px;
+        height: 54px;
+        width: 263px;
+        font-size: 17px;
+    }
+    .hero {
+        height: 329px;
+    }
+    .beef-section h3, .vegan-section h3, .vegitarian-section h3 {
+
+        padding-left: 0;
+    }
+    .beef-section p, .vegan-section p, .vegitarian-section p {
+
+        font-size: 15.5px;
+        padding-left: 12px;
+        padding-top: 31px;
+    }
+    .copyrights p {
+        padding-left: 64px;
+        margin-top: -5px;
+    }
+    .contacts ul {
+        margin-left: -21px;
+        margin-top: -29px;
+    }
+    .contacts ul > li {
+        padding-right: 5.5px;
+        padding-left: 5.5px;
+    }
+    #footer {
+        max-width: 340px;
+    }
+    }
